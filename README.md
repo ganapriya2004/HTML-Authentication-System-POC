@@ -34,10 +34,10 @@ The main purpose of this project is to:
 html-authentication-poc/
 │
 ├── index.html
-├── register.html
+├── Register.html
 ├── forgot-password.html
 ├── reset-password.html
-├── dashboard.html
+├── Dashboard.html
 │
 ├── styles.css
 ├── README.md
